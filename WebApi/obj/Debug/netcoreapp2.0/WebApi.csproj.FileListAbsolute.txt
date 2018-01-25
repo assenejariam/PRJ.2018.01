@@ -1,0 +1,10 @@
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/bin/Debug/netcoreapp2.0/WebApi.deps.json
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.json
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/bin/Debug/netcoreapp2.0/WebApi.runtimeconfig.dev.json
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/bin/Debug/netcoreapp2.0/WebApi.dll
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/bin/Debug/netcoreapp2.0/WebApi.pdb
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/obj/Debug/netcoreapp2.0/WebApi.csproj.CoreCompileInputs.cache
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfoInputs.cache
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/obj/Debug/netcoreapp2.0/WebApi.AssemblyInfo.cs
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/obj/Debug/netcoreapp2.0/WebApi.dll
+/Users/mjrh/PROJECTS/PRJ.2018.01/WebApi/obj/Debug/netcoreapp2.0/WebApi.pdb
